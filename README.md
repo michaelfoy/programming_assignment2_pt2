@@ -16,7 +16,9 @@ The purpose of this task was to create the architecture for a social networking 
 
 The project includes 2 test classes:
  * TestSpacebook.java
- * TestMessaging.java. This project was developed using the BlueJ IDE version 3.1.6
+ * TestMessaging.java.
+
+This project was developed using the BlueJ IDE version 3.1.6
 
 Instructions
 ------------
